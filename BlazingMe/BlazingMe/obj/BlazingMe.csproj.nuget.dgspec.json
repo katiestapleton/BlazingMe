@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj": {}
+    "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj": {
+    "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj",
+        "projectUniqueName": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj",
         "projectName": "BlazingMe.Client",
-        "projectPath": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj",
+        "projectPath": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj",
         "packagesPath": "C:\\Users\\ladyg_46i2nwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\obj\\",
+        "outputPath": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj": {
+    "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj",
+        "projectUniqueName": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj",
         "projectName": "BlazingMe",
-        "projectPath": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj",
+        "projectPath": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj",
         "packagesPath": "C:\\Users\\ladyg_46i2nwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe\\obj\\",
+        "outputPath": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,8 +122,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj": {
-                "projectPath": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj"
+              "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj": {
+                "projectPath": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe.Client\\BlazingMe.Client.csproj"
               }
             }
           }

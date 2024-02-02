@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazingMe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a9c5c5a45975ecceed1ec054a01923c8c687d99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a8af1409058f85c350e56500578f0922ef7be8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazingMe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazingMe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

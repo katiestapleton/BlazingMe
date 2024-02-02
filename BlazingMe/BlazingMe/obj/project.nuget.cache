@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "quuODD/FZ2Oehb4lqC/t4ytJZ+iYZ4HlDVdLtsu8M0X0I0Jb7tK7aGcYpbtIFOyFY1LSbik4CJPt0OVi2pGxBg==",
+  "dgSpecHash": "4G3wsjyNK+nmefyj3+YXsjrvcBPaKgW71MD5RYw5HaVCluarZHF2HCw+XZjXISV+JXPTDHS1Xwz6Sy+441ssfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ladyg_46i2nwa\\source\\repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj",
+  "projectFilePath": "C:\\Users\\ladyg_46i2nwa\\Source\\Repos\\BlazingMe\\BlazingMe\\BlazingMe\\BlazingMe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ladyg_46i2nwa\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.1\\microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
     "C:\\Users\\ladyg_46i2nwa\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.1\\microsoft.aspnetcore.components.8.0.1.nupkg.sha512",
